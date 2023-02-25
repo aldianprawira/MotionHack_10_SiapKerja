@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import '../../profile/views/profile_view.dart';
+
 class HomeController extends GetxController {
   late RxInt index = 0.obs;
 
@@ -526,8 +528,6 @@ class HomeController extends GetxController {
     const Center(
       child: Text("Cari"),
     ),
-    const Center(
-      child: Text("Akun"),
-    )
+    const ProfilAudience(),
   ];
 }

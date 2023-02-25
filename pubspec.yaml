@@ -25,9 +25,12 @@ flutter:
     - assets/images/illustration4.png
     - assets/images/facebook.png
     - assets/images/google.png
-    - assets/images/chat.png
-    - assets/images/notif.png
+    - assets/images/clock.png
+    - assets/images/image.png
+    - assets/images/notification.png
     - assets/images/person.png
+    - assets/images/profil.png
+    - assets/images/robot.png
   fonts:
     - family: Poppins
       fonts:

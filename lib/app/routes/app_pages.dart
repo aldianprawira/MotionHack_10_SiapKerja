@@ -37,5 +37,25 @@ class AppPages {
       page: () => const DaftarView(),
       binding: DaftarBinding(),
     ),
+    // GetPage(
+    //   name: _Paths.PROFILE,
+    //   page: () => const ProfileView(),
+    //   binding: ProfileBinding(),
+    // ),
+    // GetPage(
+    //   name: _Paths.JADWAL,
+    //   page: () => const JadwalView(),
+    //   binding: JadwalBinding(),
+    // ),
+    // GetPage(
+    //   name: _Paths.PEMBAYARAN,
+    //   page: () => const PembayaranView(),
+    //   binding: PembayaranBinding(),
+    // ),
+    // GetPage(
+    //   name: _Paths.DETAIL_JADWAL,
+    //   page: () => const DetailJadwalView(),
+    //   binding: DetailJadwalBinding(),
+    // ),
   ];
 }
